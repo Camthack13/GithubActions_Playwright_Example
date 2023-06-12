@@ -1,0 +1,13 @@
+{
+  "name": "githubactions_playwright_example",
+  "version": "1.0.0",
+  "description": "This is just a sand box repository to familiarize myself with Github actions and Playwrite",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.0"
+  }
+}
